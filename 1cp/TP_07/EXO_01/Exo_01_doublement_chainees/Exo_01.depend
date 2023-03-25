@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1679502768 source:e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainées\exo_01\exo_01.c
+	"Exo_01.h"
+
+1679071051 e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainées\exo_01\exo_01.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+
+1679502489 source:e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainées\exo_01\main.c
+	"Exo_01.h"
+
+1679502768 source:e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainées\exo_01.c
+	"Exo_01.h"
+
+1679071051 e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainées\exo_01.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+
+1679502768 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainees\exo_01.c
+	"Exo_01.h"
+
+1679071051 e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainees\exo_01.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+
+1679664727 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_07\exo_01\exo_01_doublement_chainees\main.c
+	"Exo_01.h"
+
