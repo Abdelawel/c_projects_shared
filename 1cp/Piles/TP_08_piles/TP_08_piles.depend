@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681333362 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_08\piles\tp_08_piles\main.c
+	"TP_08_piles.h"
+
+1681333265 e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_08\piles\tp_08_piles\tp_08_piles.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+
+1681333310 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_08\piles\tp_08_piles\tp_08_piles.c
+	"TP_08_piles.h"
+
