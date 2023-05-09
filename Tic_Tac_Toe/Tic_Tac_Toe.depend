@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677004088 source:e:\01-abdelawel\c projects\estin_project\extra_work\tic_tac_toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<stdbool.h>
+
