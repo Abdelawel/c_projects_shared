@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1678795622 source:e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01\main.c
+	"EXO_01.h"
+
+1678703890 e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01\exo_01.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+
+1678795622 source:e:\01-abdelawel\c projects\estin_project\tps\tp_07\exo_01\exo_01\exo_01.c
+	"EXO_01.h"
+
+1680637384 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_07\exo_01\exo_01_simple\exo_01.c
+	"EXO_01.h"
+
+1680636893 e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_07\exo_01\exo_01_simple\exo_01.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+
+1680636893 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_07\exo_01\exo_01_simple\main.c
+	"EXO_01.h"
+

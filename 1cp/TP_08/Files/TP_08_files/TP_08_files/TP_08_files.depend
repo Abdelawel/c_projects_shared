@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681336422 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_08\files\tp_08_files\tp_08_files\main.c
+	"TP_08_files.h"
+
+1681336290 e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_08\files\tp_08_files\tp_08_files\tp_08_files.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1681510405 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_08\files\tp_08_files\tp_08_files\tp_08_files.c
+	"TP_08_files.h"
+

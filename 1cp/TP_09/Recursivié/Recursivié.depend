@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683033728 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_09\recursivié\recursivite.c
+	"Recursivite.h"
+
+1683033718 e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_09\recursivié\recursivite.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1683054981 source:e:\01-abdelawel\cp1_c_projects\estin_project\tps\tp_09\recursivié\main.c
+	"Recursivite.h"
+
